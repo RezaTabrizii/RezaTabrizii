@@ -1,11 +1,3 @@
-<style>
-p a {
-  padding-right: 16px;
-  padding-left: 16px;
-}
-</style>
-
-
 <h1 align="center">Hi there, I'm Reza Tabrizi 👋</h1>
 <p align="center"> 
  <a href="https://www.linkedin.com/in/tabrizi-me" alt="reza tabrizi's linkedin">
@@ -25,7 +17,7 @@ I'm a back-end developer skilled in ASP.NET Core and C#. I love building scalabl
   Professional skills
   </strong>
 </p>
--------------------------------------------------------------------------
+___
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
