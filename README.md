@@ -3,16 +3,20 @@
  <a href="https://www.linkedin.com/in/tabrizi-me" alt="reza tabrizi's linkedin">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
  </a>
-  <a href="https://meysamhadeli.com" alt="reza tabrizi's Gmail">
+  <a href="mailto:smr.tabrizii@gmail.com" alt="reza tabrizi's Gmail">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=c90404&logo=Gmail&logoColor=FFFFFF&label=" />
  </a>
 </p>
 
+<p>
 I'm a back-end developer skilled in ASP.NET Core and C#. I love building scalable RESTful APIs and creating clean, maintainable code with design patterns. I'm also good at optimizing both SQL and NoSQL databases. Problem-solving is my jam!
 
 🌱 Currently expanding my skill set by learning Vue and Nuxt to become a full-stack developer. Always excited to learn new technologies and grow in fast-paced environments.
+</p>
 
 <h3 align="center">Professional skills</h3>
+---
+
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
